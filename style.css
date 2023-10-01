@@ -560,3 +560,10 @@ span {
  .each-icon p{
  font-size: 1.6rem;
  }
+
+ .credentials{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+ }
